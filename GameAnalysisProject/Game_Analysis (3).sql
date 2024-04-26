@@ -332,7 +332,7 @@ END \\
 DELIMITER ;
 
 
--- Call the Total_Score function to calculate the total score for the player with ID 683
+-- Call the Total_Score function to calculate the total score for the player with ID 500
 
-SELECT Total_Score(683);
+SELECT Total_Score(500);
 
